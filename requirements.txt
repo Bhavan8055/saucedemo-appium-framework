@@ -1,0 +1,7 @@
+Appium-Python-Client==4.0.0
+pytest==8.3.2 
+pytest-html==4.1.1
+selenium==4.23.1
+openpyxl==3.1.5
+allure-pytest==2.13.5
+pytest-xdist==3.6.1

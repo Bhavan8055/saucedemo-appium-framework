@@ -1,0 +1,28 @@
+{
+  "login": [
+    {
+      "username": "testuser",
+      "password": "Password123"
+    }
+  ],
+  "registration": [
+    {
+      "name": "Automation User",
+      "email": "automation.user@example.com",
+      "password": "Password123",
+      "confirm_password": "Password123"
+    }
+  ],
+  "search": [
+    {
+      "movie_name": "Inception"
+    }
+  ],
+  "profile_update": [
+    {
+      "name": "Automation User Updated",
+      "email": "automation.updated@example.com",
+      "bio": "I love testing movie apps."
+    }
+  ]
+}

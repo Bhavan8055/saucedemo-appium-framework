@@ -1,0 +1,60 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.10, pytest-9.0.3, pluggy-1.6.0 -- D:\Python\Py\App_test\env\Scripts\python.exe
+cachedir: .pytest_cache
+metadata: {'Python': '3.12.10', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '9.0.3', 'pluggy': '1.6.0'}, 'Plugins': {'html': '4.2.0', 'metadata': '3.1.1'}}
+rootdir: D:\Python\Py\App_test
+configfile: pytest.ini
+plugins: html-4.2.0, metadata-3.1.1
+collecting ... collected 3 items
+
+tests/test_login.py::TestUserLogin::test_login_scenarios[bod@example.com-10203040-True] 
+------------------------------- live log setup --------------------------------
+INFO     DriverSetup:conftest.py:12 Initializing Appium Driver...
+-------------------------------- live log call --------------------------------
+INFO     LoginTestSuite:test_login.py:16 Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+INFO     BasePageLogger:base_page.py:26 Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+INFO     BasePageLogger:base_page.py:26 Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+INFO     BasePageLogger:base_page.py:13 Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+INFO     BasePageLogger:base_page.py:13 Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+INFO     BasePageLogger:base_page.py:26 Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+INFO     BasePageLogger:base_page.py:13 Waiting for element: //*[@text='Products']
+INFO     LoginTestSuite:test_login.py:27 Scenario for 'bod@example.com' completed and matched expectations.
+PASSED
+------------------------------ live log teardown ------------------------------
+INFO     DriverSetup:conftest.py:40 Closing test session...
+
+tests/test_login.py::TestUserLogin::test_login_scenarios[alice@example.com-wrong_pass-False] 
+------------------------------- live log setup --------------------------------
+INFO     DriverSetup:conftest.py:12 Initializing Appium Driver...
+-------------------------------- live log call --------------------------------
+INFO     LoginTestSuite:test_login.py:16 Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+INFO     BasePageLogger:base_page.py:26 Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+INFO     BasePageLogger:base_page.py:26 Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+INFO     BasePageLogger:base_page.py:13 Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+INFO     BasePageLogger:base_page.py:13 Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+INFO     BasePageLogger:base_page.py:26 Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+INFO     BasePageLogger:base_page.py:13 Waiting for element: //*[@text='Products']
+INFO     LoginTestSuite:test_login.py:27 Scenario for 'alice@example.com' completed and matched expectations.
+PASSED
+------------------------------ live log teardown ------------------------------
+INFO     DriverSetup:conftest.py:40 Closing test session...
+
+tests/test_login.py::TestUserLogin::test_login_scenarios[--False] 
+------------------------------- live log setup --------------------------------
+INFO     DriverSetup:conftest.py:12 Initializing Appium Driver...
+-------------------------------- live log call --------------------------------
+INFO     LoginTestSuite:test_login.py:16 Executing Data-Driven Login Test: User='' | Expected=False
+INFO     BasePageLogger:base_page.py:26 Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+INFO     BasePageLogger:base_page.py:26 Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+INFO     BasePageLogger:base_page.py:13 Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+INFO     BasePageLogger:base_page.py:13 Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+INFO     BasePageLogger:base_page.py:26 Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+INFO     BasePageLogger:base_page.py:13 Waiting for element: //*[@text='Products']
+INFO     LoginTestSuite:test_login.py:27 Scenario for '' completed and matched expectations.
+PASSED
+------------------------------ live log teardown ------------------------------
+INFO     DriverSetup:conftest.py:40 Closing test session...
+
+
+-- Generated html report: file:///D:/Python/Py/App_test/reports/report.html ---
+======================== 3 passed in 67.12s (0:01:07) =========================

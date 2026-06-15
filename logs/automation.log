@@ -1,0 +1,1585 @@
+2026-06-08 14:53:38,772 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 14:53:47,733 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 14:53:47,735 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 14:53:49,727 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 14:53:49,859 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 14:53:49,949 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 14:54:40,401 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 14:54:46,755 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 14:54:46,930 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 14:54:48,677 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 14:54:48,791 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 14:54:48,813 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 14:58:51,328 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 14:58:56,552 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 14:58:56,554 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 14:58:58,477 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 14:58:58,592 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 14:58:58,594 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 14:59:24,339 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 14:59:30,018 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 14:59:30,020 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 14:59:31,719 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 14:59:31,883 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 14:59:32,230 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:04:35,702 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:04:40,863 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 15:04:40,863 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 15:04:42,717 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 15:04:42,843 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 15:04:42,844 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:06:01,876 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:06:09,602 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 15:06:09,649 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 15:06:11,771 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 15:06:11,928 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 15:06:11,963 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:09:46,083 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:09:55,093 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 15:09:55,245 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 15:09:57,113 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 15:09:57,278 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 15:09:57,439 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:12:40,861 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:12:46,122 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 15:12:46,215 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 15:12:48,046 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 15:12:48,187 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 15:12:48,188 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:14:29,591 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:14:36,847 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 15:14:36,947 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 15:14:38,770 - AppLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 15:14:38,892 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 15:14:39,013 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:47:12,016 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:47:17,632 - LoginTestSuite - INFO - --- CRITICAL DIAGNOSTIC START ---
+2026-06-08 15:47:17,634 - AppLogger - INFO - Step 1: Waiting and clicking on the sidebar menu button...
+2026-06-08 15:47:17,635 - AppLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 15:47:20,220 - AppLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 15:47:20,221 - AppLogger - INFO - Step 2: Waiting and clicking on the Login menu item...
+2026-06-08 15:47:20,221 - AppLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 15:47:20,415 - AppLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 15:47:20,416 - AppLogger - INFO - Step 3: Typing username: bod@example.com
+2026-06-08 15:47:21,877 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_successful_login.png
+2026-06-08 15:47:21,877 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:48:04,886 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:48:10,714 - LoginTestSuite - INFO - --- CRITICAL DIAGNOSTIC START ---
+2026-06-08 15:48:10,715 - AppLogger - INFO - Step 1: Waiting and clicking on the sidebar menu button...
+2026-06-08 15:48:10,715 - AppLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 15:48:13,520 - AppLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 15:48:13,521 - AppLogger - INFO - Step 2: Waiting and clicking on the Login menu item...
+2026-06-08 15:48:13,521 - AppLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 15:48:13,718 - AppLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 15:48:13,718 - AppLogger - INFO - Step 3: Typing username: bod@example.com
+2026-06-08 15:48:14,668 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_successful_login.png
+2026-06-08 15:48:14,668 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:51:53,147 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:51:58,709 - CartTestSuite - INFO - Starting test_add_backpack_to_cart
+2026-06-08 15:51:58,711 - AppLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 15:52:00,744 - AppLogger - INFO - Clicking on the 'Sauce Labs Backpack' product...
+2026-06-08 15:52:00,745 - AppLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 15:52:00,965 - AppLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 15:52:00,966 - AppLogger - INFO - Reading the current shopping cart badge count...
+2026-06-08 15:52:00,967 - AppLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/cartTV']
+2026-06-08 15:52:17,196 - AppLogger - INFO - Tapping the 'Add to Cart' button...
+2026-06-08 15:52:17,313 - AppLogger - INFO - Waiting for element: //*[@content-desc='Tap to add product to cart' or @text='Add To Cart']
+2026-06-08 15:52:36,630 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_add_backpack_to_cart.png
+2026-06-08 15:52:36,632 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:52:38,912 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:52:43,234 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:52:47,903 - LoginTestSuite - INFO - --- CRITICAL DIAGNOSTIC START ---
+2026-06-08 15:52:47,904 - AppLogger - INFO - Step 1: Waiting and clicking on the sidebar menu button...
+2026-06-08 15:52:47,904 - AppLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 15:52:50,705 - AppLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 15:52:50,705 - AppLogger - INFO - Step 2: Waiting and clicking on the Login menu item...
+2026-06-08 15:52:50,705 - AppLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 15:52:50,912 - AppLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 15:52:50,914 - AppLogger - INFO - Step 3: Typing username: bod@example.com
+2026-06-08 15:52:51,551 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_successful_login.png
+2026-06-08 15:52:51,551 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:52:52,082 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:52:56,000 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 15:52:56,002 - AppLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 15:52:58,412 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_verify_catalog_page_loads.png
+2026-06-08 15:52:58,413 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:52:58,932 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:53:02,800 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:53:07,304 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:57:29,802 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:57:37,667 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 15:57:37,788 - AppLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 15:57:42,991 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_verify_catalog_page_loads.png
+2026-06-08 15:57:42,991 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:57:43,644 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:57:48,092 - LoginTestSuite - INFO - --- CRITICAL DIAGNOSTIC START ---
+2026-06-08 15:57:48,092 - AppLogger - INFO - Step 1: Waiting and clicking on the sidebar menu button...
+2026-06-08 15:57:48,092 - AppLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 15:57:50,887 - AppLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 15:57:50,887 - AppLogger - INFO - Step 2: Waiting and clicking on the Login menu item...
+2026-06-08 15:57:50,887 - AppLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 15:57:51,103 - AppLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 15:57:51,103 - AppLogger - INFO - Step 3: Typing username: bod@example.com
+2026-06-08 15:57:51,755 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_successful_login.png
+2026-06-08 15:57:51,755 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 15:57:52,283 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 15:57:59,652 - CartTestSuite - INFO - Starting test_add_backpack_to_cart
+2026-06-08 15:57:59,659 - AppLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 15:58:01,294 - AppLogger - INFO - Clicking on the 'Sauce Labs Backpack' product...
+2026-06-08 15:58:01,295 - AppLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 15:58:01,520 - AppLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 15:58:01,520 - AppLogger - INFO - Reading the current shopping cart badge count...
+2026-06-08 15:58:01,520 - AppLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/cartTV']
+2026-06-08 15:58:17,780 - AppLogger - INFO - Tapping the 'Add to Cart' button...
+2026-06-08 15:58:17,784 - AppLogger - INFO - Waiting for element: //*[@content-desc='Tap to add product to cart' or @text='Add To Cart']
+2026-06-08 15:58:35,044 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_add_backpack_to_cart.png
+2026-06-08 15:58:35,048 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:08:39,521 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:08:44,832 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 16:08:44,834 - AppLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:08:47,495 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_verify_catalog_page_loads.png
+2026-06-08 16:08:47,495 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:08:48,103 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:08:52,198 - LoginTestSuite - INFO - --- CRITICAL DIAGNOSTIC START ---
+2026-06-08 16:08:52,198 - AppLogger - INFO - Step 1: Waiting and clicking on the sidebar menu button...
+2026-06-08 16:08:52,198 - AppLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:08:54,274 - AppLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:08:54,274 - AppLogger - INFO - Step 2: Waiting and clicking on the Login menu item...
+2026-06-08 16:08:54,274 - AppLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:08:55,397 - AppLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:08:55,398 - AppLogger - INFO - Step 3: Typing username: bod@example.com
+2026-06-08 16:08:56,082 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_successful_login.png
+2026-06-08 16:08:56,083 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:08:56,702 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:09:01,261 - CartTestSuite - INFO - Starting test_add_backpack_to_cart
+2026-06-08 16:09:01,262 - AppLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:09:03,766 - AppLogger - INFO - Clicking on the 'Sauce Labs Backpack' product...
+2026-06-08 16:09:03,767 - AppLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:09:03,931 - AppLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:09:03,931 - AppLogger - INFO - Reading the current shopping cart badge count...
+2026-06-08 16:09:03,931 - AppLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/cartTV']
+2026-06-08 16:09:20,190 - AppLogger - INFO - Tapping the 'Add to Cart' button...
+2026-06-08 16:09:20,196 - AppLogger - INFO - Waiting for element: //*[@content-desc='Tap to add product to cart' or @text='Add To Cart']
+2026-06-08 16:09:37,770 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_add_backpack_to_cart.png
+2026-06-08 16:09:37,815 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:10:09,821 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:10:14,822 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 16:10:14,823 - AppLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:10:17,952 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_verify_catalog_page_loads.png
+2026-06-08 16:10:17,952 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:10:18,610 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:10:23,956 - LoginTestSuite - INFO - --- CRITICAL DIAGNOSTIC START ---
+2026-06-08 16:10:23,956 - AppLogger - INFO - Step 1: Waiting and clicking on the sidebar menu button...
+2026-06-08 16:10:23,956 - AppLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:10:27,116 - AppLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:10:27,116 - AppLogger - INFO - Step 2: Waiting and clicking on the Login menu item...
+2026-06-08 16:10:27,117 - AppLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:10:27,352 - AppLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:10:27,355 - AppLogger - INFO - Step 3: Typing username: bod@example.com
+2026-06-08 16:10:28,125 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_successful_login.png
+2026-06-08 16:10:28,126 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:10:28,799 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:10:33,234 - CartTestSuite - INFO - Starting test_add_backpack_to_cart
+2026-06-08 16:10:33,234 - AppLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:10:35,229 - AppLogger - INFO - Clicking on the 'Sauce Labs Backpack' product...
+2026-06-08 16:10:35,230 - AppLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:10:35,394 - AppLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:10:35,397 - AppLogger - INFO - Reading the current shopping cart badge count...
+2026-06-08 16:10:35,397 - AppLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/cartTV']
+2026-06-08 16:10:51,634 - AppLogger - INFO - Tapping the 'Add to Cart' button...
+2026-06-08 16:10:51,730 - AppLogger - INFO - Waiting for element: //*[@content-desc='Tap to add product to cart' or @text='Add To Cart']
+2026-06-08 16:11:09,443 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_add_backpack_to_cart.png
+2026-06-08 16:11:09,589 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:17:14,921 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:17:23,117 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 16:17:23,163 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:17:26,676 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_verify_catalog_page_loads.png
+2026-06-08 16:17:26,677 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:17:27,176 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:17:31,271 - LoginTestSuite - INFO - --- CRITICAL DIAGNOSTIC START ---
+2026-06-08 16:17:31,271 - BasePageLogger - INFO - Step 1: Waiting and clicking on the sidebar menu button...
+2026-06-08 16:17:31,272 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:17:34,216 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:17:34,216 - BasePageLogger - INFO - Step 2: Waiting and clicking on the Login menu item...
+2026-06-08 16:17:34,217 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:17:34,412 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:17:34,413 - BasePageLogger - INFO - Step 3: Typing username: bod@example.com
+2026-06-08 16:17:34,413 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/nameET' or @text='Username']
+2026-06-08 16:17:36,425 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_successful_login.png
+2026-06-08 16:17:36,426 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:21:35,622 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:21:41,222 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 16:21:41,224 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:21:43,364 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:21:43,498 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 16:21:43,499 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:21:43,946 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:21:48,083 - LoginTestSuite - INFO - --- CRITICAL DIAGNOSTIC START ---
+2026-06-08 16:21:48,084 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:21:51,167 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:21:51,167 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:21:51,364 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:21:51,364 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:21:52,724 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:21:52,726 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:21:53,831 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:21:53,832 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:21:54,429 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:21:54,430 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:21:56,034 - LoginTestSuite - INFO - --- DIAGNOSTIC PASSED SUCCESFULLY ---
+2026-06-08 16:21:56,036 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:22:33,342 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:22:38,567 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 16:22:38,568 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:22:40,475 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:22:41,442 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 16:22:41,443 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:22:41,882 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:22:46,222 - LoginTestSuite - INFO - --- CRITICAL DIAGNOSTIC START ---
+2026-06-08 16:22:46,223 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:22:48,573 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:22:48,575 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:22:49,663 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:22:49,665 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:22:51,060 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:22:51,062 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:22:52,142 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:22:52,143 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:22:52,729 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:22:52,730 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:22:54,410 - LoginTestSuite - INFO - --- DIAGNOSTIC PASSED SUCCESFULLY ---
+2026-06-08 16:22:54,646 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:29:42,334 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:29:48,160 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 16:29:48,161 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:29:50,145 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:29:50,343 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 16:29:50,344 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:29:50,816 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:29:54,772 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-08 16:29:54,772 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:29:56,888 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:29:56,888 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:29:57,964 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:29:57,964 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:29:59,318 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:29:59,319 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:30:00,393 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:30:00,393 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:30:01,003 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:30:01,005 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:30:02,627 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-08 16:30:02,631 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:30:03,366 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:30:07,514 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-08 16:30:07,516 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:30:10,466 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:30:10,466 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:30:10,664 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:30:10,665 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:30:12,038 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:30:12,038 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:30:13,106 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:30:13,107 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:30:14,137 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:30:14,224 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:30:30,481 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-08 16:30:30,695 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:30:32,521 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:30:41,228 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-08 16:30:41,260 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:30:43,553 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:30:43,554 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:30:43,780 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:30:43,782 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:30:45,178 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:30:45,178 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:30:46,255 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:30:46,255 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:30:47,400 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:30:47,400 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:31:03,645 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-08 16:31:03,842 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:31:04,738 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:31:10,895 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:31:12,545 - BasePageLogger - INFO - Selecting the target item from the catalog view...
+2026-06-08 16:31:12,546 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Bolt T-Shirt']
+2026-06-08 16:31:31,127 - SauceDemoAutomation - ERROR - Test failed! Screenshot saved to D:\Python\Py\App_test\screenshots/test_search_and_view_item_details.png
+2026-06-08 16:31:31,250 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:34:02,607 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:34:07,869 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 16:34:07,870 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:34:09,862 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:34:09,981 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 16:34:09,983 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:34:10,524 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:34:14,551 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-08 16:34:14,551 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:34:16,605 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:34:16,622 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:34:17,696 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:34:17,697 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:34:19,019 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:34:19,020 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:34:20,093 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:34:20,093 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:34:20,699 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:34:20,700 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:34:22,282 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-08 16:34:22,284 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:34:22,778 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:34:27,030 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-08 16:34:27,031 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:34:29,178 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:34:29,178 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:34:30,279 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:34:30,280 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:34:31,626 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:34:31,626 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:34:32,642 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:34:32,642 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:34:33,671 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:34:33,672 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:34:49,891 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-08 16:34:50,020 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:34:52,244 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:34:57,247 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-08 16:34:57,248 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:35:00,216 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:35:00,274 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:35:00,531 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:35:00,531 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:35:01,886 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:35:01,886 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:35:03,830 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:35:03,830 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:35:05,023 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:35:05,024 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:35:21,393 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-08 16:35:21,496 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:35:22,827 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:35:28,984 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:35:31,135 - BasePageLogger - INFO - Selecting the target viewport-visible item from the catalog...
+2026-06-08 16:35:31,135 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:35:31,295 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:35:31,298 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/priceTV' or @resource-id='com.saucelabs.mydemoapp.android:id/productPriceTV']
+2026-06-08 16:35:31,551 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:36:19,201 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:36:25,303 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 16:36:25,304 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:36:27,097 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:36:27,320 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 16:36:27,361 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:36:28,230 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:36:34,854 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-08 16:36:34,956 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:36:37,518 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:36:37,518 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:36:37,727 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:36:37,728 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:36:39,043 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:36:39,043 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:36:40,114 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:36:40,114 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:36:40,718 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:36:40,719 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:36:42,406 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-08 16:36:42,514 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:36:44,435 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:36:55,350 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-08 16:36:55,417 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:36:58,239 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:36:58,241 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:36:58,450 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:36:58,450 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:36:59,795 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:36:59,796 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:37:00,901 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:37:00,902 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:37:01,990 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:37:01,991 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:37:18,296 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-08 16:37:18,449 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:37:19,187 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:37:23,959 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-08 16:37:23,961 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:37:27,217 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:37:27,218 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:37:27,459 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:37:27,460 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:37:28,847 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:37:28,847 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:37:29,918 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:37:29,919 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:37:31,057 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:37:31,058 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:37:47,206 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-08 16:37:47,357 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:37:48,057 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:37:52,415 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:37:54,564 - BasePageLogger - INFO - Selecting the target viewport-visible item from the catalog...
+2026-06-08 16:37:54,564 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:37:54,730 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:37:54,732 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/priceTV' or @resource-id='com.saucelabs.mydemoapp.android:id/productPriceTV']
+2026-06-08 16:37:54,857 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:40:23,334 - SauceDemoAutomation - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:40:33,846 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:40:37,051 - BasePageLogger - INFO - Selecting the target viewport-visible item from the catalog...
+2026-06-08 16:40:37,054 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:40:37,324 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:40:37,324 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/priceTV' or @resource-id='com.saucelabs.mydemoapp.android:id/productPriceTV']
+2026-06-08 16:40:37,593 - SauceDemoAutomation - INFO - Tearing down Appium Driver session...
+2026-06-08 16:42:14,388 - AppLogger - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:42:27,318 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 16:42:27,435 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:42:28,036 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:42:28,168 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 16:42:28,644 - AppLogger - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:42:36,536 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-08 16:42:36,538 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:42:38,487 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:42:38,488 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:42:39,653 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:42:39,654 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:42:40,247 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:42:40,248 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:42:41,322 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:42:41,323 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:42:41,930 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:42:41,930 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:42:44,226 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-08 16:42:45,379 - AppLogger - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:42:52,314 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-08 16:42:52,315 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:42:53,996 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:42:53,996 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:42:55,139 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:42:55,139 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:42:55,727 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:42:55,727 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:42:56,826 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:42:56,826 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:42:57,922 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:42:57,923 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:43:14,487 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-08 16:43:15,343 - AppLogger - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:43:22,132 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-08 16:43:22,132 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:43:22,814 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:43:22,815 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:43:23,944 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:43:23,944 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:43:25,450 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:43:25,450 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:43:26,526 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:43:26,528 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:43:27,792 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:43:27,792 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:43:44,015 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-08 16:43:44,908 - AppLogger - INFO - Initializing Appium Driver for My Demo App...
+2026-06-08 16:43:51,869 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:43:52,457 - BasePageLogger - INFO - Selecting the target viewport-visible item from the catalog...
+2026-06-08 16:43:52,457 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:43:52,624 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:43:52,625 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/priceTV' or @resource-id='com.saucelabs.mydemoapp.android:id/productPriceTV']
+2026-06-08 16:45:33,413 - DriverSetup - INFO - Initializing Appium Driver with stability extensions...
+2026-06-08 16:45:41,367 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:45:41,822 - BasePageLogger - INFO - Selecting the target viewport-visible item from the catalog...
+2026-06-08 16:45:41,823 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:45:41,991 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:45:41,992 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/priceTV' or @resource-id='com.saucelabs.mydemoapp.android:id/productPriceTV']
+2026-06-08 16:45:42,094 - DriverSetup - INFO - Closing test session down cleanly...
+2026-06-08 16:46:06,495 - DriverSetup - INFO - Initializing Appium Driver with stability extensions...
+2026-06-08 16:46:17,603 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:46:18,172 - BasePageLogger - INFO - Selecting the target viewport-visible item from the catalog...
+2026-06-08 16:46:18,172 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:46:18,368 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:46:18,371 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/priceTV' or @resource-id='com.saucelabs.mydemoapp.android:id/productPriceTV']
+2026-06-08 16:46:18,522 - DriverSetup - INFO - Closing test session down cleanly...
+2026-06-08 16:50:57,323 - DriverSetup - INFO - Initializing Appium Driver with stability extensions...
+2026-06-08 16:51:05,279 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:51:06,090 - BasePageLogger - INFO - Selecting the target viewport-visible item from the catalog...
+2026-06-08 16:51:06,091 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:51:06,278 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:51:06,278 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/priceTV' or @resource-id='com.saucelabs.mydemoapp.android:id/productPriceTV']
+2026-06-08 16:51:06,557 - DriverSetup - INFO - Closing test session down cleanly...
+2026-06-08 16:53:26,228 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-08 16:53:34,675 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-08 16:53:34,678 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:53:37,092 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:53:37,215 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-08 16:53:37,240 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-08 16:53:37,796 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-08 16:53:43,440 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-08 16:53:43,441 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:53:47,053 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:53:47,054 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:53:47,246 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:53:47,247 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:53:48,777 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:53:48,778 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:53:49,851 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:53:49,851 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:53:50,463 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:53:50,464 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:53:52,588 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-08 16:53:52,612 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-08 16:53:53,285 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-08 16:54:00,543 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-08 16:54:00,546 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:54:03,639 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:54:03,641 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:54:04,959 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:54:04,959 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:54:05,632 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:54:05,704 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:54:06,760 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:54:06,760 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:54:07,839 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:54:07,839 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:54:24,040 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-08 16:54:24,227 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-08 16:54:24,975 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-08 16:54:31,236 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-08 16:54:31,239 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:54:34,661 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-08 16:54:34,662 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:54:34,904 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-08 16:54:34,907 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:54:36,540 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-08 16:54:36,540 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:54:37,615 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-08 16:54:37,615 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:54:38,856 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-08 16:54:38,858 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-08 16:54:54,998 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-08 16:54:55,106 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-08 16:54:55,635 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-08 16:55:07,430 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-08 16:55:09,702 - BasePageLogger - INFO - Selecting the target viewport-visible item from the catalog...
+2026-06-08 16:55:09,703 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:55:09,876 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-08 16:55:09,877 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/priceTV' or @resource-id='com.saucelabs.mydemoapp.android:id/productPriceTV']
+2026-06-08 16:55:10,000 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:40:48,072 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:40:54,724 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 09:40:54,810 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:40:57,231 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:40:57,231 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:40:58,299 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:40:58,300 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 09:41:15,637 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:41:16,231 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:41:23,578 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 09:41:23,578 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:41:25,264 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:41:25,264 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:41:27,229 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:41:27,231 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 09:41:43,735 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:41:44,312 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:41:48,459 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 09:41:48,461 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:41:51,149 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:41:51,149 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:41:52,184 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:41:52,184 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 09:42:08,606 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:45:28,657 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:45:35,492 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 09:45:35,494 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:45:38,215 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:45:38,216 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:45:39,246 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:45:39,246 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 09:45:57,054 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:45:57,554 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:46:01,881 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 09:46:01,883 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:46:03,423 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:46:03,424 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:46:05,777 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:46:05,777 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 09:46:22,031 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:46:22,479 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:46:26,838 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 09:46:26,839 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:46:29,199 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/menuIV
+2026-06-09 09:46:29,199 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:46:30,245 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/itemTV
+2026-06-09 09:46:30,245 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 09:46:46,526 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:47:18,631 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:47:25,843 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 09:47:25,844 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:47:27,687 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:47:27,688 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:47:29,513 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:47:29,514 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:47:30,150 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:47:30,150 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:47:31,166 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:47:31,166 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:47:31,702 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:47:31,702 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 09:47:32,964 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 09:47:32,966 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:47:33,591 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:47:39,303 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 09:47:39,304 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:47:42,031 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:47:42,032 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:47:42,219 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:47:42,219 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:47:43,489 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:47:43,490 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:47:44,557 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:47:44,557 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:47:45,785 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:47:45,785 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 09:48:01,891 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 09:48:01,989 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:48:02,681 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:48:09,135 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 09:48:09,135 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:48:11,385 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:48:11,385 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:48:12,507 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:48:12,507 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:48:13,854 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:48:13,855 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:48:14,936 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:48:14,936 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:48:16,555 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:48:16,555 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 09:48:32,741 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 09:48:32,843 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:53:33,003 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:53:38,537 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 09:53:38,538 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:53:41,483 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:53:41,483 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:53:41,719 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:53:41,720 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:53:43,019 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:53:43,020 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:53:44,092 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:53:44,092 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:53:44,688 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:53:44,689 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 09:53:46,118 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 09:53:46,135 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:53:46,958 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:53:53,214 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 09:53:53,215 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:53:55,123 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:53:55,125 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:53:56,812 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:53:56,813 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:53:57,402 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:53:57,402 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:53:58,489 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:53:58,490 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:53:59,519 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:53:59,520 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 09:54:15,835 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 09:54:15,918 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:54:16,923 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:54:21,709 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 09:54:21,710 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:54:24,518 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:54:24,518 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:54:24,780 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:54:24,797 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:54:26,036 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:54:26,037 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:54:27,118 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:54:27,120 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:54:28,317 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:54:28,317 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 09:54:45,509 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 09:54:45,650 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:55:29,672 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:55:36,928 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 09:55:36,928 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:55:39,888 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:55:39,888 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:55:40,193 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:55:40,194 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:55:41,520 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:55:41,521 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:55:42,606 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:55:42,607 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:55:43,206 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:55:43,207 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 09:55:44,624 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 09:55:44,652 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:55:45,176 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:55:49,126 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 09:55:49,127 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:55:51,933 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:55:51,933 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:55:52,934 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:55:52,934 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:55:53,584 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:55:53,584 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:55:54,625 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:55:54,626 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:55:55,730 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:55:55,731 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 09:56:11,901 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 09:56:12,059 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 09:56:12,666 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 09:56:16,942 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 09:56:16,943 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:56:19,387 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 09:56:19,387 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:56:20,263 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 09:56:20,263 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:56:20,865 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 09:56:20,866 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:56:21,881 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 09:56:21,882 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:56:23,020 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 09:56:23,021 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 09:56:39,128 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 09:56:39,337 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:00:40,976 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:00:45,441 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-09 10:00:45,442 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:00:47,284 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:00:47,432 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-09 10:00:47,432 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:00:47,900 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:00:52,277 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 10:00:52,277 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:00:54,160 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:00:54,162 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:00:55,269 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:00:55,269 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:00:56,585 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:00:56,585 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:00:57,652 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:00:57,653 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:00:58,256 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:00:58,256 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:00:59,641 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 10:00:59,643 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:01:00,136 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:01:04,557 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 10:01:04,561 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:01:07,008 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:01:07,008 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:01:08,104 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:01:08,105 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:01:09,400 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:01:09,402 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:01:10,477 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:01:10,477 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:01:11,564 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:01:11,565 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:01:27,737 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 10:01:27,873 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:01:28,361 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:01:32,831 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 10:01:32,832 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:01:34,723 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:01:34,724 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:01:35,879 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:01:35,880 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:01:37,221 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:01:37,221 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:01:38,311 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:01:38,311 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:01:39,451 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:01:39,452 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:01:55,628 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 10:01:55,714 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:01:56,234 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:02:00,991 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:02:04,117 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:05:32,580 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:05:38,317 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-09 10:05:38,318 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:05:40,192 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:05:40,311 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-09 10:05:40,311 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:05:41,746 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:05:49,452 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 10:05:49,454 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:05:51,594 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:05:51,595 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:05:52,715 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:05:52,715 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:05:54,075 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:05:54,076 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:05:55,141 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:05:55,142 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:05:55,738 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:05:55,738 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:05:57,252 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 10:05:57,343 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:05:57,973 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:06:02,179 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 10:06:02,180 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:06:05,224 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:06:05,224 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:06:05,420 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:06:05,421 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:06:06,968 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:06:06,968 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:06:08,037 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:06:08,037 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:06:09,130 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:06:09,132 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:06:25,667 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 10:06:25,806 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:06:26,427 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:06:31,015 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 10:06:31,016 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:06:33,514 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:06:33,514 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:06:33,739 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:06:33,760 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:06:35,094 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:06:35,095 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:06:36,113 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:06:36,114 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:06:36,656 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:06:36,656 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:06:52,827 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 10:06:52,936 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:06:53,500 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:06:58,039 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:07:01,317 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:08:44,737 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:08:53,913 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-09 10:08:53,918 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:08:55,971 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:08:56,093 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-09 10:08:56,095 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:08:56,583 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:09:02,132 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 10:09:02,133 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:09:04,207 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:09:04,208 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:09:05,903 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:09:05,903 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:09:06,964 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:09:06,964 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:09:07,977 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:09:07,977 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:09:08,541 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:09:08,541 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:09:10,132 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 10:09:10,153 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:09:10,619 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:09:15,242 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 10:09:15,242 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:09:18,156 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:09:18,157 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:09:18,374 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:09:18,374 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:09:19,762 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:09:19,762 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:09:20,841 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:09:20,841 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:09:21,930 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:09:21,930 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:09:38,042 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 10:09:38,046 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:09:38,463 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:09:42,707 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 10:09:42,708 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:09:44,705 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:09:44,706 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:09:45,886 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:09:45,886 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:09:48,304 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:09:48,304 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:09:49,374 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:09:49,375 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:09:49,969 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:09:49,970 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:10:06,266 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 10:10:06,557 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:10:07,429 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:10:14,402 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:10:14,857 - BasePageLogger - INFO - Tapping the first item title in the catalog using direct Resource ID...
+2026-06-09 10:10:14,857 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/titleTV
+2026-06-09 10:10:14,937 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/titleTV
+2026-06-09 10:10:14,937 - BasePageLogger - INFO - Checking if the product price displays on the details screen...
+2026-06-09 10:10:14,937 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/priceTV
+2026-06-09 10:10:14,983 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:15:24,683 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:15:33,082 - BasePageLogger - INFO - Tapping the first item title in the catalog using direct Resource ID...
+2026-06-09 10:15:33,083 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/titleTV
+2026-06-09 10:15:33,203 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/titleTV
+2026-06-09 10:15:33,204 - BasePageLogger - INFO - Checking if the product price displays on the details screen...
+2026-06-09 10:15:33,204 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/priceTV
+2026-06-09 10:15:33,251 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:15:53,625 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:16:02,338 - BasePageLogger - INFO - Tapping the first item title in the catalog using direct Resource ID...
+2026-06-09 10:16:02,339 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/titleTV
+2026-06-09 10:16:02,469 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/titleTV
+2026-06-09 10:16:02,471 - BasePageLogger - INFO - Checking if the product price displays on the details screen...
+2026-06-09 10:16:02,471 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/priceTV
+2026-06-09 10:16:02,523 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:20:11,569 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:20:18,701 - CartTestSuite - INFO - Starting test_add_backpack_to_cart
+2026-06-09 10:20:18,703 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:20:20,536 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-09 10:20:20,704 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-09 10:20:20,704 - BasePageLogger - INFO - Reading the current shopping cart badge count...
+2026-06-09 10:20:20,705 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/cartTV']
+2026-06-09 10:20:36,934 - BasePageLogger - INFO - Tapping the 'Add to Cart' button...
+2026-06-09 10:20:36,934 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to add product to cart' or @text='Add To Cart']
+2026-06-09 10:20:53,748 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:24:16,353 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:24:22,674 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-09 10:24:22,675 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:24:24,669 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:24:24,802 - AppLogger - INFO - Catalog page successfully verified via Page Object Model architecture!
+2026-06-09 10:24:24,803 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:24:25,240 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:24:29,803 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 10:24:29,803 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:24:32,056 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:24:32,057 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:24:33,235 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:24:33,241 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:24:34,748 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:24:34,749 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:24:35,964 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:24:35,964 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:24:36,568 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:24:36,569 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:24:38,082 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 10:24:38,185 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:24:38,960 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:24:43,366 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 10:24:43,366 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:24:45,411 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:24:45,411 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:24:46,387 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:24:46,388 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:24:47,703 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:24:47,704 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:24:48,775 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:24:48,775 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:24:49,913 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:24:49,915 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:25:06,099 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 10:25:06,140 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:25:06,788 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:25:11,421 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 10:25:11,423 - BasePageLogger - INFO - Waiting for element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:25:13,486 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 10:25:13,486 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:25:14,588 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 10:25:14,590 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:25:15,885 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 10:25:15,885 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:25:16,952 - BasePageLogger - INFO - Typed text into field: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 10:25:16,952 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:25:18,147 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 10:25:18,148 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 10:25:34,294 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 10:25:34,296 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:25:34,739 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:25:43,047 - BasePageLogger - INFO - Tapping the first item title in the catalog using strict index XPath...
+2026-06-09 10:25:43,047 - BasePageLogger - INFO - Waiting for element: (//*[@resource-id='com.saucelabs.mydemoapp.android:id/titleTV'])[1]
+2026-06-09 10:25:43,519 - BasePageLogger - INFO - Clicked element: (//*[@resource-id='com.saucelabs.mydemoapp.android:id/titleTV'])[1]
+2026-06-09 10:25:43,519 - BasePageLogger - INFO - Checking if the product price displays via XPath validation...
+2026-06-09 10:25:43,520 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/priceTV']
+2026-06-09 10:25:43,636 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:25:44,040 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:25:48,664 - CartTestSuite - INFO - Starting test_add_backpack_to_cart
+2026-06-09 10:25:48,666 - BasePageLogger - INFO - Waiting for element: //*[@text='Products' or @content-desc='title']
+2026-06-09 10:25:50,614 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-09 10:25:50,754 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-09 10:25:50,754 - BasePageLogger - INFO - Reading the current shopping cart badge count...
+2026-06-09 10:25:50,755 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/cartTV']
+2026-06-09 10:26:07,933 - BasePageLogger - INFO - Tapping the 'Add to Cart' button...
+2026-06-09 10:26:08,060 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to add product to cart' or @text='Add To Cart']
+2026-06-09 10:26:15,141 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to add product to cart' or @text='Add To Cart']
+2026-06-09 10:26:16,143 - BasePageLogger - INFO - Reading the current shopping cart badge count...
+2026-06-09 10:26:16,143 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/cartTV']
+2026-06-09 10:26:16,218 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/cartTV']
+2026-06-09 10:26:16,292 - CartTestSuite - INFO - Add to Cart validation executed successfully!
+2026-06-09 10:26:16,341 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:28:31,780 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:28:41,192 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-09 10:28:41,670 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-09 10:28:43,171 - BasePageLogger - INFO - Tapping the 'Add to Cart' button...
+2026-06-09 10:28:43,171 - BasePageLogger - INFO - Waiting for element: //*[@content-desc='Tap to add product to cart' or @text='Add To Cart']
+2026-06-09 10:29:00,549 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:30:41,739 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:30:53,179 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-09 10:30:53,671 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-09 10:30:55,173 - BasePageLogger - INFO - Tapping the 'Add to Cart' button via resource-id XPath...
+2026-06-09 10:30:55,173 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/cartBtn']
+2026-06-09 10:31:12,497 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 10:33:47,161 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 10:34:00,115 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-09 10:34:00,636 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-09 10:34:02,638 - BasePageLogger - INFO - Tapping the 'Add to Cart' button via resilient uppercase/lowercase XPath...
+2026-06-09 10:34:02,638 - BasePageLogger - INFO - Waiting for element: //*[contains(@text, 'Cart') or contains(@text, 'CART') or contains(@resource-id, 'cart') or contains(@content-desc, 'cart')]
+2026-06-09 10:34:03,545 - BasePageLogger - INFO - Clicked element: //*[contains(@text, 'Cart') or contains(@text, 'CART') or contains(@resource-id, 'cart') or contains(@content-desc, 'cart')]
+2026-06-09 10:34:05,045 - BasePageLogger - INFO - Waiting for element: //*[contains(@resource-id, 'cartTV') or contains(@resource-id, 'cartRL') or contains(@resource-id, 'cartIV')]
+2026-06-09 10:34:05,161 - BasePageLogger - INFO - Clicked element: //*[contains(@resource-id, 'cartTV') or contains(@resource-id, 'cartRL') or contains(@resource-id, 'cartIV')]
+2026-06-09 10:34:07,162 - BasePageLogger - INFO - Tapping the 'Proceed to Checkout' button widget via XPath...
+2026-06-09 10:34:07,162 - BasePageLogger - INFO - Waiting for element: //*[@resource-id='com.saucelabs.mydemoapp.android:id/shoppingBtn']
+2026-06-09 10:34:24,687 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 11:08:47,500 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 11:12:14,885 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 11:12:21,652 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-09 11:12:23,621 - BasePageLogger - INFO - Clicked element: //*[@text='Sauce Labs Backpack']
+2026-06-09 11:12:23,622 - BasePageLogger - INFO - Adding product to cart
+2026-06-09 11:12:23,622 - BasePageLogger - INFO - Waiting for element: //*[contains(@text,'Add') and contains(@text,'Cart')]
+2026-06-09 11:12:41,073 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 11:34:32,125 - DriverSetup - INFO - Initializing Appium Driver with OS termination capabilities...
+2026-06-09 11:34:40,508 - DriverSetup - INFO - Closing test session down and forcing process kill...
+2026-06-09 11:43:05,132 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 11:46:04,116 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 11:46:11,889 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 11:46:12,623 - BasePageLogger - INFO - Clicked element: Tap to add product to cart
+2026-06-09 11:46:12,624 - DriverSetup - INFO - Closing test session...
+2026-06-09 11:46:42,530 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 11:47:09,846 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 11:47:10,740 - BasePageLogger - INFO - Clicked element: Tap to add product to cart
+2026-06-09 11:47:10,747 - DriverSetup - INFO - Closing test session...
+2026-06-09 11:54:11,377 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 11:54:20,727 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 11:54:20,728 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 11:54:21,550 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 11:54:21,551 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cartTV
+2026-06-09 11:54:21,885 - DriverSetup - INFO - Closing test session...
+2026-06-09 11:56:23,771 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 11:56:30,153 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 11:56:35,154 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 11:56:35,925 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 11:56:40,927 - DriverSetup - INFO - Closing test session...
+2026-06-09 11:58:18,163 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 11:58:25,204 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 11:58:25,204 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 11:58:28,196 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 11:58:28,196 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cartTV
+2026-06-09 11:58:28,313 - DriverSetup - INFO - Closing test session...
+2026-06-09 11:58:41,776 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 11:58:47,764 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 11:58:47,766 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 11:58:49,657 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 11:58:49,659 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cartTV
+2026-06-09 11:58:49,812 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:15:05,910 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:15:13,811 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 12:15:13,811 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 12:15:14,590 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 12:15:14,590 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cartTV
+2026-06-09 12:15:14,805 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:15:32,336 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:15:39,594 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 12:15:39,595 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 12:15:40,375 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 12:15:40,375 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cartTV
+2026-06-09 12:15:40,587 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:18:55,819 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:19:02,873 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 12:19:02,873 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 12:19:04,725 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 12:19:05,792 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 12:19:05,793 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-09 12:19:06,160 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:47:03,918 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:47:11,698 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 12:47:11,699 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 12:47:12,460 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 12:47:12,460 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cartTV
+2026-06-09 12:47:12,800 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:47:13,279 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:47:20,321 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 12:47:20,323 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 12:47:21,724 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 12:47:22,576 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 12:47:24,748 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 12:47:24,748 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 12:47:41,930 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:47:42,378 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:47:47,551 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:47:48,097 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:47:52,983 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 12:47:53,067 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:47:53,561 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:47:58,738 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 12:47:58,746 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:47:59,913 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:48:05,611 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 12:48:05,619 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:48:06,174 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:48:11,351 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-09 12:48:11,472 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:48:13,218 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:48:18,382 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:48:19,478 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:48:24,148 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:48:25,702 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:48:34,000 - DriverSetup - INFO - Closing test session...
+2026-06-09 12:48:34,458 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 12:48:42,600 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 12:48:42,603 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 12:48:43,372 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 12:48:44,576 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 12:48:44,577 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-09 12:48:44,948 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:39:00,212 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:39:10,371 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 13:39:10,928 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:39:11,554 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:39:16,753 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 13:39:16,759 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:39:17,764 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:39:22,966 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 13:39:22,971 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:44:04,919 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:44:09,185 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 13:44:12,963 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 13:44:14,182 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 13:44:14,182 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 13:44:14,780 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 13:44:16,401 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 13:44:16,402 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 13:44:18,645 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 13:44:18,647 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:44:19,407 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:44:24,530 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 13:44:27,417 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 13:44:28,164 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 13:44:28,164 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 13:44:29,707 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 13:44:31,844 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 13:44:31,845 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 13:44:47,992 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 13:44:48,124 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:44:48,599 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:44:53,948 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 13:44:57,323 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 13:44:58,443 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 13:44:58,444 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 13:44:59,033 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 13:45:01,419 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 13:45:01,420 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 13:45:17,769 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 13:45:17,883 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:46:32,026 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:46:36,287 - AppLogger - INFO - Executing: test_verify_catalog_page_loads
+2026-06-09 13:46:36,776 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:46:37,858 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:46:46,347 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 13:46:46,347 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 13:46:47,107 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 13:46:47,109 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cartTV
+2026-06-09 13:46:47,387 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:46:47,883 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:46:55,754 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 13:46:55,755 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 13:46:57,626 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 13:46:57,858 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 13:46:57,858 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-09 13:46:58,790 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:46:59,241 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:47:07,656 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 13:47:07,656 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 13:47:08,606 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 13:47:09,939 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 13:47:11,014 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 13:47:11,014 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 13:47:27,498 - DriverSetup - INFO - Closing test session...
+2026-06-09 13:59:43,754 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 13:59:51,922 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 13:59:51,923 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 13:59:52,725 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 13:59:52,919 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 13:59:54,053 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 13:59:54,053 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 14:00:10,669 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:17:46,281 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:17:56,056 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 14:17:56,286 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 14:17:56,286 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 14:17:57,807 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 14:17:59,576 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 14:18:02,775 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 14:18:02,776 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 14:18:04,426 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:18:05,707 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 14:18:06,855 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:18:06,856 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 14:18:08,032 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/address1ET
+2026-06-09 14:18:09,679 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cityET
+2026-06-09 14:18:11,333 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/zipET
+2026-06-09 14:18:13,039 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/countryET
+2026-06-09 14:18:16,220 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:18:16,221 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 14:18:17,392 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cardNumberET
+2026-06-09 14:18:19,045 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/expirationDateET
+2026-06-09 14:18:20,700 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/securityCodeET
+2026-06-09 14:18:23,795 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:18:24,712 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:18:24,712 - BasePageLogger - INFO - Waiting for element: //*[contains(@text,'Thank')]
+2026-06-09 14:18:24,926 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:23:05,124 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:23:14,792 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 14:23:15,982 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 14:23:15,982 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 14:23:16,588 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 14:23:18,337 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 14:23:21,708 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 14:23:21,709 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 14:23:22,501 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:23:23,744 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 14:23:24,828 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:23:24,829 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 14:23:26,013 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/address1ET
+2026-06-09 14:23:27,660 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cityET
+2026-06-09 14:23:29,317 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/zipET
+2026-06-09 14:23:30,975 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/countryET
+2026-06-09 14:23:34,126 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:23:34,128 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 14:23:35,298 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cardNumberET
+2026-06-09 14:23:36,957 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/expirationDateET
+2026-06-09 14:23:38,619 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/securityCodeET
+2026-06-09 14:23:41,983 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:23:42,134 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:23:42,135 - BasePageLogger - INFO - Waiting for element: //*[contains(@text,'Thank')]
+2026-06-09 14:23:43,084 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:25:32,662 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:25:40,690 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 14:25:40,931 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 14:25:40,931 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 14:25:42,482 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 14:25:44,228 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 14:25:47,724 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 14:25:47,724 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 14:25:47,869 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:25:49,852 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 14:25:50,983 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:25:50,983 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 14:25:52,524 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/address1ET
+2026-06-09 14:25:54,170 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cityET
+2026-06-09 14:25:55,827 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/zipET
+2026-06-09 14:25:57,488 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/countryET
+2026-06-09 14:26:00,790 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:26:00,805 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 14:26:02,002 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cardNumberET
+2026-06-09 14:26:03,944 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/expirationDateET
+2026-06-09 14:26:05,604 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/securityCodeET
+2026-06-09 14:26:08,748 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:26:08,909 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:26:08,910 - BasePageLogger - INFO - Waiting for element: //*[contains(@text,'Thank')]
+2026-06-09 14:26:09,874 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:27:42,106 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:27:46,970 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 14:27:50,873 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 14:27:52,014 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 14:27:52,015 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 14:27:52,634 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 14:27:54,383 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 14:27:54,384 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 14:27:56,667 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 14:27:56,771 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:27:57,514 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:28:03,462 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 14:28:06,390 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 14:28:07,894 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 14:28:07,894 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 14:28:08,490 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 14:28:10,694 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 14:28:10,697 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 14:28:26,878 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 14:28:26,879 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:28:27,703 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:28:32,961 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 14:28:36,848 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 14:28:37,131 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 14:28:37,131 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 14:28:38,594 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 14:28:40,978 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 14:28:40,978 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 14:28:57,130 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 14:28:57,134 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:29:56,121 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:30:05,318 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 14:30:05,569 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 14:30:05,569 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 14:30:07,208 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 14:30:08,922 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 14:30:12,321 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 14:30:12,321 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 14:30:13,089 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:30:14,370 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 14:30:14,523 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:30:14,523 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 14:30:16,662 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/address1ET
+2026-06-09 14:30:18,313 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cityET
+2026-06-09 14:30:19,976 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/zipET
+2026-06-09 14:30:21,632 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/countryET
+2026-06-09 14:30:24,764 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:30:24,765 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 14:30:25,942 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cardNumberET
+2026-06-09 14:30:27,595 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/expirationDateET
+2026-06-09 14:30:29,258 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/securityCodeET
+2026-06-09 14:30:32,393 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:30:32,587 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:30:32,588 - BasePageLogger - INFO - Waiting for element: //*[contains(@text,'Thank')]
+2026-06-09 14:30:33,709 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:38:52,770 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:39:00,798 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 14:39:01,978 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 14:39:01,978 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 14:39:02,581 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 14:39:04,601 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 14:39:06,952 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 14:39:06,952 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 14:39:08,744 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:39:09,944 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 14:39:10,994 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:39:10,994 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 14:39:12,163 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/address1ET
+2026-06-09 14:39:13,845 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cityET
+2026-06-09 14:39:15,502 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/zipET
+2026-06-09 14:39:17,155 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/countryET
+2026-06-09 14:39:20,479 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:39:20,480 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-09 14:39:21,646 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cardNumberET
+2026-06-09 14:39:23,300 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/expirationDateET
+2026-06-09 14:39:24,959 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/securityCodeET
+2026-06-09 14:39:28,061 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:39:28,220 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-09 14:39:28,221 - BasePageLogger - INFO - Waiting for element: //*[contains(@text,'Thank')]
+2026-06-09 14:39:29,151 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:50:29,848 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:50:39,384 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 14:50:39,385 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 14:50:40,163 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:50:41,343 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 14:50:41,343 - BasePageLogger - INFO - Waiting for element: //*[@text='Sauce Labs Backpack']
+2026-06-09 14:50:42,225 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:54:05,854 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:54:14,143 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 14:54:14,144 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 14:54:14,927 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:54:15,284 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 14:54:16,263 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:54:16,263 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 14:54:33,590 - DriverSetup - INFO - Closing test session...
+2026-06-09 14:56:19,906 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 14:56:29,358 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 14:56:29,359 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 14:56:30,189 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:56:31,464 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 14:56:32,577 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 14:56:32,578 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 14:56:52,675 - DriverSetup - INFO - Closing test session...
+2026-06-09 15:00:41,314 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 15:00:51,522 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 15:00:51,523 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 15:00:51,696 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 15:00:52,585 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 15:00:53,676 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 15:00:53,676 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 15:01:10,694 - DriverSetup - INFO - Closing test session...
+2026-06-09 15:03:29,862 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 15:03:37,669 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 15:03:37,671 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 15:03:38,454 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 15:03:38,704 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 15:03:39,839 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 15:03:39,840 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 15:03:57,087 - DriverSetup - INFO - Closing test session...
+2026-06-09 15:08:02,066 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 15:08:11,250 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 15:08:11,252 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 15:08:12,026 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 15:08:13,199 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 15:08:14,409 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 15:08:14,409 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 15:08:32,235 - DriverSetup - INFO - Closing test session...
+2026-06-09 15:10:25,000 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 15:10:35,034 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 15:10:35,085 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 15:10:37,584 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 15:10:37,752 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-09 15:10:39,942 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-09 15:10:39,943 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-09 15:10:57,566 - DriverSetup - INFO - Closing test session...
+2026-06-09 15:11:42,636 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 15:12:04,556 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-09 15:12:04,585 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-09 15:12:21,789 - DriverSetup - INFO - Closing test session...
+2026-06-09 15:13:09,042 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 16:03:05,585 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 16:03:13,808 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 16:03:15,988 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 16:03:17,122 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 16:03:17,122 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 16:03:18,468 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 16:03:20,055 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 16:03:20,055 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 16:03:21,350 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 16:03:21,355 - DriverSetup - INFO - Closing test session...
+2026-06-09 16:03:22,346 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 16:03:26,927 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 16:03:29,879 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 16:03:30,086 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 16:03:30,087 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 16:03:31,337 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 16:03:33,479 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 16:03:33,480 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 16:03:49,615 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 16:03:49,626 - DriverSetup - INFO - Closing test session...
+2026-06-09 16:03:50,230 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 16:03:53,780 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 16:03:56,481 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 16:03:56,686 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 16:03:56,686 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 16:03:58,019 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 16:04:00,315 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 16:04:00,315 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 16:04:16,481 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 16:04:16,488 - DriverSetup - INFO - Closing test session...
+2026-06-09 16:05:04,947 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 16:05:09,010 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-09 16:05:11,882 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 16:05:12,119 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 16:05:12,119 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 16:05:13,369 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 16:05:15,002 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 16:05:15,002 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 16:05:16,291 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-09 16:05:16,366 - DriverSetup - INFO - Closing test session...
+2026-06-09 16:05:17,053 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 16:05:21,479 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-09 16:05:23,435 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 16:05:24,552 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 16:05:24,552 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 16:05:25,817 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 16:05:28,030 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 16:05:28,030 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 16:05:44,194 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-09 16:05:44,204 - DriverSetup - INFO - Closing test session...
+2026-06-09 16:05:44,779 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-09 16:05:48,371 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-09 16:05:51,315 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-09 16:05:51,522 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-09 16:05:51,522 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-09 16:05:52,787 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-09 16:05:55,064 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-09 16:05:55,064 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-09 16:06:11,230 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-09 16:06:11,233 - DriverSetup - INFO - Closing test session...
+2026-06-10 11:53:52,827 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-10 11:54:02,055 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-10 11:54:02,277 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-10 11:54:02,278 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-10 11:54:03,563 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-10 11:54:05,261 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-10 11:54:07,443 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-10 11:54:07,443 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-10 11:54:08,140 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-10 11:54:08,973 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-10 11:54:09,076 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-10 11:54:09,077 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-10 11:54:10,907 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/address1ET
+2026-06-10 11:54:12,552 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cityET
+2026-06-10 11:54:14,215 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/zipET
+2026-06-10 11:54:15,876 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/countryET
+2026-06-10 11:54:19,269 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-10 11:54:19,269 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-10 11:54:20,436 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cardNumberET
+2026-06-10 11:54:22,085 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/expirationDateET
+2026-06-10 11:54:23,744 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/securityCodeET
+2026-06-10 11:54:26,681 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-10 11:54:26,793 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-10 11:54:26,795 - BasePageLogger - INFO - Waiting for element: //*[contains(@text,'Thank')]
+2026-06-10 11:54:27,599 - DriverSetup - INFO - Closing test session...
+2026-06-10 11:58:55,224 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-10 11:59:02,255 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-10 11:59:02,462 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-10 11:59:02,463 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-10 11:59:03,747 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-10 11:59:05,395 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-10 11:59:07,413 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-10 11:59:07,413 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-10 11:59:08,140 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-10 11:59:08,938 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-10 11:59:09,079 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-10 11:59:09,080 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-10 11:59:10,965 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/address1ET
+2026-06-10 11:59:12,615 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cityET
+2026-06-10 11:59:14,270 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/zipET
+2026-06-10 11:59:15,922 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/countryET
+2026-06-10 11:59:18,869 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-10 11:59:18,869 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-10 11:59:20,045 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cardNumberET
+2026-06-10 11:59:21,696 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/expirationDateET
+2026-06-10 11:59:23,352 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/securityCodeET
+2026-06-10 11:59:26,285 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-10 11:59:26,394 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-10 11:59:26,395 - BasePageLogger - INFO - Waiting for element: //*[contains(@text,'Thank')]
+2026-06-10 11:59:27,072 - DriverSetup - INFO - Closing test session...
+2026-06-15 12:00:35,954 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-15 12:00:49,685 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-15 12:00:49,890 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-15 12:00:49,891 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-15 12:00:51,156 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-15 12:00:52,841 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-15 12:00:54,804 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/productIV
+2026-06-15 12:00:54,805 - BasePageLogger - INFO - Clicking Add To Cart button
+2026-06-15 12:00:55,502 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-15 12:00:56,293 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartIV
+2026-06-15 12:00:56,407 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/cartBt
+2026-06-15 12:00:56,407 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/fullNameET
+2026-06-15 12:00:58,242 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/address1ET
+2026-06-15 12:00:59,884 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cityET
+2026-06-15 12:01:01,532 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/zipET
+2026-06-15 12:01:03,181 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/countryET
+2026-06-15 12:01:06,393 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-15 12:01:06,393 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/nameET
+2026-06-15 12:01:07,557 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/cardNumberET
+2026-06-15 12:01:09,207 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/expirationDateET
+2026-06-15 12:01:10,862 - BasePageLogger - INFO - Waiting for element: com.saucelabs.mydemoapp.android:id/securityCodeET
+2026-06-15 12:01:13,853 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-15 12:01:13,956 - BasePageLogger - INFO - Clicked element: com.saucelabs.mydemoapp.android:id/paymentBtn
+2026-06-15 12:01:13,956 - BasePageLogger - INFO - Waiting for element: //*[contains(@text,'Thank')]
+2026-06-15 12:01:14,661 - DriverSetup - INFO - Closing test session...
+2026-06-15 12:04:40,133 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-15 12:04:45,440 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='bod@example.com' | Expected=True
+2026-06-15 12:04:48,484 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-15 12:04:48,690 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-15 12:04:48,690 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-15 12:04:49,964 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-15 12:04:51,640 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-15 12:04:51,640 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-15 12:04:52,904 - LoginTestSuite - INFO - Scenario for 'bod@example.com' completed and matched expectations.
+2026-06-15 12:04:52,906 - DriverSetup - INFO - Closing test session...
+2026-06-15 12:04:53,426 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-15 12:04:56,688 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='alice@example.com' | Expected=False
+2026-06-15 12:04:59,485 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-15 12:04:59,692 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-15 12:04:59,692 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-15 12:05:00,916 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-15 12:05:03,033 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-15 12:05:03,033 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-15 12:05:19,195 - LoginTestSuite - INFO - Scenario for 'alice@example.com' completed and matched expectations.
+2026-06-15 12:05:19,343 - DriverSetup - INFO - Closing test session...
+2026-06-15 12:05:19,923 - DriverSetup - INFO - Initializing Appium Driver...
+2026-06-15 12:05:23,520 - LoginTestSuite - INFO - Executing Data-Driven Login Test: User='' | Expected=False
+2026-06-15 12:05:25,479 - BasePageLogger - INFO - Clicked element: //android.widget.ImageView[@content-desc='View menu' or @resource-id='com.saucelabs.mydemoapp.android:id/menuIV']
+2026-06-15 12:05:26,609 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Login Menu Item' or @text='Log In']
+2026-06-15 12:05:26,609 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/nameET']
+2026-06-15 12:05:27,900 - BasePageLogger - INFO - Waiting for element: //android.widget.EditText[@resource-id='com.saucelabs.mydemoapp.android:id/passwordET']
+2026-06-15 12:05:30,135 - BasePageLogger - INFO - Clicked element: //*[@content-desc='Tap to login with given credentials' or @text='Log In']
+2026-06-15 12:05:30,135 - BasePageLogger - INFO - Waiting for element: //*[@text='Products']
+2026-06-15 12:05:46,268 - LoginTestSuite - INFO - Scenario for '' completed and matched expectations.
+2026-06-15 12:05:46,273 - DriverSetup - INFO - Closing test session...
