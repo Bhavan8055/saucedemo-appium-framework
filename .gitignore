@@ -2,8 +2,8 @@ env/
 __pycache__/
 .pytest_cache/
 reports/
-*.pyc
+logs/
+screenshots/
 .vscode/
 .idea/
-logs/automation.log
-reports/report.html
+*.pyc
