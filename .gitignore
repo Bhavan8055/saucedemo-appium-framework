@@ -5,3 +5,5 @@ reports/
 *.pyc
 .vscode/
 .idea/
+logs/automation.log
+reports/report.html
